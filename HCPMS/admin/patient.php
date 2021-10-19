@@ -4,7 +4,7 @@
 ?>
 <html lang = "eng">
 	<head>
-		<title>Health Center Patient Record Management System</title>
+		<title>Patient Record Management System</title>
 		<meta charset = "utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel = "shortcut icon" href = "../images/logo.png" />
@@ -14,7 +14,7 @@
 	</head>
 <body>
 	<div class = "navbar navbar-default navbar-fixed-top">
-		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Health Center Patient Record Management System - Victorias City</label>
+		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 			<?php
 				$conn = new mysqli("localhost", "root", "", "hcpms") or die(mysqli_error());
 				$q = $conn->query("SELECT * FROM `admin` WHERE `admin_id` = '$_SESSION[admin_id]'") or die(mysqli_error());
@@ -230,7 +230,7 @@
 							<td><?php echo $fetch['age']?></td>				
 							<td><?php echo $fetch['address']?></td>
 							<td><?php echo $fetch['civil_status']?></td>
-							<td><center><a href = "complaints.php?id=<?php echo $fetch['itr_no']?>&lastname=<?php echo $fetch['lastname']?>" class = "btn btn-sm btn-info">Complaints <span class = "badge"><?php echo $f['total']?></span></a> 
+							<td><center><a href = "complaints.php?id=<?php echo $fetch['itr_no']?>&lastname=<?php echo $fetch['lastname']?>" class = "btn btn-sm btn-info">Appointments <span class = "badge"><?php echo $f['total']?></span></a> 
 							<a href = "edit_patient.php?id=<?php echo $fetch['itr_no']?>&lastname=<?php echo $fetch['lastname']?>" class = "btn btn-sm btn-warning"><span class = "glyphicon glyphicon-pencil"></span> Update</a></center></td>
 						</tr>
 					<?php
@@ -243,7 +243,7 @@
 		</div>
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 <?php include("script.php"); ?>
 <script type = "text/javascript">

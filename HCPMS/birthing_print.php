@@ -32,8 +32,8 @@
 <br />
 	<div id="print" style = "max-width:850px;">
 		<div style = "margin:10px;">	
-			<center><label><b>VICTORIAS CITY HEALTH OFFICE</b></label></center>
-			<center><label>VICTORIAS CITY, NEGROS OCCIDENTAL</label></center>
+			<center><label><b>VASAI CITY HEALTH OFFICE</b></label></center>
+			<center><label>VASAI City, Bassein Road</label></center>
 			<br />
 			<center><label><u><b>BIRTHING ADMISSION RECORD</b></u></label></center>
 			<br />

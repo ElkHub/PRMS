@@ -7,7 +7,7 @@
 ?>
 <html lang = "en">
 	<head>	
-		<title>Health Center Patient Record Management System</title>
+		<title>Patient Record Management System</title>
 		<meta charset = "UTF-8">
 		<link rel="stylesheet" href="css/jquery-ui.css" />
 		<script src="js/jquery.js"></script>
@@ -25,7 +25,7 @@
 	</head>
 	<body>
 	<div class = "navbar navbar-default navbar-fixed-top">
-		<img src = "images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Health Center Patient Record Management System - Victorias City</label>
+		<img src = "images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 		<ul class = "nav navbar-right">	
 				<li class = "dropdown">
 					<a class = "user dropdown-toggle" data-toggle = "dropdown" href = "#">
@@ -276,7 +276,7 @@
 		 
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 	</body>
 		<?php require "script.php" ?>

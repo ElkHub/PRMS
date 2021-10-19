@@ -30,11 +30,11 @@
 <br />
 	<div id="print" style = "max-width:850px;">
 		<div style = "margin:10px;">	
-			<center><label>Republic of the Philippines</label></center>
-			<center><label>Province of Negros Occidental</label></center>
-			<center><label>CITY OF VICTORIAS</label></center>
-			<center><label>City Health Office</label></center>
-			<center><label>Tel. No. 495-4985 / 495-5991</label></center>
+			<center><label>India</label></center>
+			<center><label>Mumbai</label></center>
+			<center><label>CITY OF VASAI</label></center>
+			<center><label>PRMS Office</label></center>
+			<center><label>Tel. No. +91 385 976 4645 / +91 385 195 6679</label></center>
 			<br />
 			<center><label><b>RADIOLOGY / ULTRASOUND REPORT</b></label></center>
 			<br />

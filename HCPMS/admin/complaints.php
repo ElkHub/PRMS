@@ -4,7 +4,7 @@
 ?>
 <html lang = "eng">
 	<head>
-		<title>Health Center Patient Record Management System</title>
+		<title> Patient Record Management System</title>
 		<meta charset = "utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel = "shortcut icon" href = "../images/logo.png" />
@@ -14,7 +14,7 @@
 	</head>
 <body>
 	<div class = "navbar navbar-default navbar-fixed-top">
-		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Health Center Patient Record Management System - Victorias City</label>
+		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 			<?php
 				$conn = new mysqli("localhost", "root", "", "hcpms") or die(mysqli_error());
 				$q = $conn->query("SELECT * FROM `admin` WHERE `admin_id` = '$_SESSION[admin_id]'") or die(mysqli_error());
@@ -68,7 +68,7 @@
 		<br />
 		<div style = "display:none;" id = "com" class = "panel panel-success">	
 			<div class = "panel-heading">
-				<label>PATIENT / COMPLAINTS</label>
+				<label>PATIENT / APPOINTMENTS</label>
 				<button class = "btn btn-danger" id = "hide_com" style = "float:right; margin-top:-5px;"><span class = "glyphicon glyphicon-remove"></span>CLOSE</button>
 			</div>
 			<div class = "panel-body">
@@ -108,7 +108,7 @@
 					</div>
 					<br />
 					<div class = "form-group">
-						<label>Complaints:</label>
+						<label>Health problems:</label>
 						<textarea style = "resize:none;" name = "complaints" class = "form-control"></textarea>
 						<br />
 						<label>Remarks:</label>
@@ -143,7 +143,7 @@
 		?>
 		<div class = "panel panel-info">
 			<div class = "panel-heading">
-				<label style = "font-size:16px;">COMPLAINTS / <?php echo $fetch['firstname']." ".$fetch['lastname']?></label>
+				<label style = "font-size:16px;">APPOINTMENTS / <?php echo $fetch['firstname']." ".$fetch['lastname']?></label>
 				<a style = "float:right; margin-top:-5px;" id = "add_complaints" class = "btn btn-success" href = "patient.php"><span class = "glyphicon glyphicon-hand-right"></span> BACK</a>
 			</div>
 		</div>
@@ -165,7 +165,7 @@
 		</div>
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 <?php include("script.php"); ?>
 </body>

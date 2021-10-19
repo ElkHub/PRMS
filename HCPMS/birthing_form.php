@@ -17,7 +17,7 @@
 	</head>
 	<body>
 	<div class = "navbar navbar-default navbar-fixed-top">
-		<img src = "images/logo.png" height = "55px" style = "float:left;"><label class = "navbar-brand">Health Center Patient Management System - Victorias City</label>
+		<img src = "images/logo.png" height = "55px" style = "float:left;"><label class = "navbar-brand"> Patient Management System - Vasai City</label>
 		<ul class = "nav navbar-right">	
 				<li class = "dropdown">
 					<a class = "user dropdown-toggle" data-toggle = "dropdown" href = "#">
@@ -223,7 +223,7 @@
 		</form>
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright Health Center PRMS 2021</label>
 	</div>
 	</body>
 		<?php require "script.php" ?>

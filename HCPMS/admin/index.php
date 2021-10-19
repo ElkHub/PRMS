@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "eng">
 	<head>
-		<title>Health Center Patient Record Management System</title>
+		<title>Patient Record Management System</title>
 		<meta charset = "utf-8" />
 		<link rel = "shortcut icon" href = "../images/logo.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
 	</head>
 <body>
 	<div class = "navbar navbar-default">
-		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Health Center Patient Record Management System - Victorias City</label>
+		<img src = "../images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 	</div>
 	<div id = "top" class = "login">
 		<div class = "panel panel-primary">
@@ -35,7 +35,7 @@
 		</div>	
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 </body>
 <?php

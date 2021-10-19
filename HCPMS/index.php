@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "eng">
 	<head>
-		<title>Health Center Patient Record Management System</title>
+		<title> Patient Record Management System</title>
 		<meta charset = "utf-8" />
 		<link rel = "shortcut icon" href = "images/logo.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,13 +10,13 @@
 	</head>
 <body>
 	<div class = "navbar navbar-default navtop">
-		<img src = "images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Health Center Patient Record Management System - Victorias City</label>
+		<img src = "images/logo.png" style = "float:left;" height = "55px" /><label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 	</div>
 		<div id = "sidelogin">
 			<form action = "login.php" enctype = "multipart/form-data" method = "POST" >
-				<label class = "lbllogin">Please Login Here...</label>
+				<label class = "lbllogin">Login Here</label>
 				<br />
-				<hr /style = "border:1px dotted #000;">
+				<hr /style = "border:1px dotted blue;">
 				<br />
 				<div class = "form-group">
 					<label for = "username">Username</label>
@@ -36,7 +36,7 @@
 		</div>	
 		<img src = "images/victorias.jpg" class = "background">			
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Health Center Patient Record Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 </body>
 <?php

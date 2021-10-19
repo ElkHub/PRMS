@@ -30,10 +30,10 @@
 		<div style = "margin:10px;">
 			<img src = "images/logo.png" height = "100px" width = "100px" style = "float:left; position:relative; left:15%;" />
 			<div style = "float:right; position:relative; right:35%;">
-				<label><center>Republic of the Philippines</center></label>
-				<label><center>Province of Negros Occidental</center></label>
-				<label><center>City of Victorias</center></label>
-				<label><center>City Health Office</center></label>
+				<label><center>India</center></label>
+				<label><center>Mumbai</center></label>
+				<label><center>City of VASAI</center></label>
+				<label><center>PRMS Office</center></label>
 			</div>
 			<br style = "clear:both;" />
 			<br />

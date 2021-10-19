@@ -5,7 +5,7 @@
 ?>
 <html lang = "eng">
 	<head>
-		<title>Patient Health Center Management System</title>
+		<title>Patient Record Management System</title>
 		<meta charset = "utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel = "stylesheet" type = "text/css" href = "../css/bootstrap.css" />
@@ -14,7 +14,7 @@
 	</head>
 <body>
 	<div class = "navbar navbar-default navbar-fixed-top">
-		<label class = "navbar-brand">Health Center Patient Management System - Victorias City</label>
+		<label class = "navbar-brand">Patient Record Management System - Vasai City</label>
 			<ul class = "nav navbar-right">	
 				<li class = "dropdown">
 					<a class = "user dropdown-toggle" data-toggle = "dropdown" href = "#">
@@ -125,7 +125,7 @@
 		</div>
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Patient Health Center Management System 2015</label>
+		<label class = "footer-title">&copy; Copyright PRMS 2021</label>
 	</div>
 <?php
 	include("script.php");

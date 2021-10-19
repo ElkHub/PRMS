@@ -28,8 +28,8 @@
 <br />
 	<div id="print">
 		<div style = "margin:10px;">
-			<center><label>VICTORIAS CITY CLINICAL LABORATORY</label></center>
-			<center><label style = "font-size:12px;">Montinola Street, Victorias City</label></center>
+			<center><label>VASAI CITY CLINICAL LABORATORY</label></center>
+			<center><label style = "font-size:12px;">Ambadi Road, Vasai City</label></center>
 			<br />
 			<br />
 			<div style = "margin-left:50px;" >

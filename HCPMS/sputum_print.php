@@ -28,7 +28,7 @@
 <br />
 	<div id="print">
 		<div style = "margin:10px;">	
-			<label><center><b>CITY HEALTH OFFICE</b></center></label>
+			<label><center><b>PRMS OFFICE</b></center></label>
 			<br />
 			<label><center><b><u>NTP LABORATORY REQUEST FORM</u></b></center></label>
 			<br />

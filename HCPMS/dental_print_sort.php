@@ -57,10 +57,10 @@
 <br />
 	<div id="print">
 		<div style = "margin:10px;">	<br />	
-			<center>Republic of the Philippines</center>
-			<center>Province of Negros Occidental</center>
-			<center>City Of Victorias</center>
-			<center>CITY HEALTH OFFICE</center>
+			<center>India</center>
+			<center>Mumbai</center>
+			<center>City Of Vasai</center>
+			<center>PRMS OFFICE</center>
 			<br />
 			<br />
 			<label>Date:

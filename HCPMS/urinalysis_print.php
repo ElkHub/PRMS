@@ -33,8 +33,8 @@
 			<br />
 			<img src = "images/logo.png" style = "float:left; margin-top:-20px; margin-left:50px;" height = "100px" width = "100px">
 			<div style = "float:left; margin-left:50px;">	
-				<label><center>VICTORIAS CITY DIAGNOSTIC LABORATORY</center></label>
-				<label style = "font-size:14px;"><center>City Health Office - Victorias City</center></label>
+				<label><center>VASAI CITY DIAGNOSTIC LABORATORY</center></label>
+				<label style = "font-size:14px;"><center>PRMS Office - Vasai City</center></label>
 				<label style = "font-size:18px;" ><center><b>URINALYSIS</b></center></label>
 			</div>
 			<br />
